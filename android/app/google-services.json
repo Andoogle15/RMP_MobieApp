@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498746594494",
+    "project_id": "rmpflutter",
+    "storage_bucket": "rmpflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498746594494:android:a94a7caac911a78d847aef",
+        "android_client_info": {
+          "package_name": "com.example.rmp_kp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498746594494-lk3dlmu89fqv3ofq94em5v187lk22dh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtp12Et53nXI0uYnMHi1C0fg7755crUyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498746594494-lk3dlmu89fqv3ofq94em5v187lk22dh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
